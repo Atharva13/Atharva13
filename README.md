@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋 I am Atharva
 
 <!--
 **Atharva13/Atharva13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on JS frameworks - **Vue.js** & **Node JS**
+
+- 🌱 I’m currently learning and improving my competitive coding & data science skills
+
+- 📫 How to reach me:- 13atharva@gmail.com
