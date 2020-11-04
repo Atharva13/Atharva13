@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning and improving my competitive coding & data science skills
 
 - 📫 How to reach me:- 13atharva@gmail.com
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Atharva13)](https://github.com/anuraghazra/github-readme-stats)
