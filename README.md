@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on JS frameworks - **Vue.js** & **Node JS**
+- 🔭 I’m currently working on **Vanilla Javascript** & JS frameworks - **Vue.js** & **Node JS**
 
 - 🌱 I’m currently learning and improving my competitive coding & data science skills
 
